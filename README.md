@@ -190,6 +190,6 @@ DevToys is using a license that permits redistribution of the app as trialware o
   <img src="https://contrib.rocks/image?repo=veler/devtoys" />
 </a>
 
-### Designers
+### Designers..
 
 [Jakub](https://github.com/AlurDesign)
